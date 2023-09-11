@@ -1,4 +1,4 @@
-# Raus Nichts //
+# Raus Nichts Bot development //
 ![image](https://github.com/RausNichts/.github/assets/129894851/3539b585-3766-41d9-8d04-47be3f86920c)
 
 ## 關於
