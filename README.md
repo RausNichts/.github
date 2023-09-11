@@ -12,13 +12,13 @@
 
     https://discord.gg/quGtPKmBBR
 
-### Website 
+### Website:
 
     https://rausnichts.vercel.app/
 
-### Fevid Acropolis
+### Fevid Acropolis:
 
     https://fevid.vercel.app/
 
 
-!我們不擁有該圖像, 我們只開發了機器人!
+#### !我們不擁有該圖像, 我們只開發了機器人!
