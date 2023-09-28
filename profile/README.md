@@ -22,3 +22,8 @@
 
 
 #### !我們不擁有該圖像, 我們只開發了機器人!
+
+# Mankey Bot development //
+
+![image](https://github.com/RausNichts/.github/assets/132499310/fd0ce06a-642e-4ab8-b00d-2cd2ac1860af)
+
