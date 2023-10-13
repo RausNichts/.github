@@ -25,5 +25,6 @@
 
 # Mankey Bot development //
 
-![image](https://github.com/RausNichts/.github/assets/132499310/fd0ce06a-642e-4ab8-b00d-2cd2ac1860af)
+ <!-- ![image](https://github.com/RausNichts/.github/assets/132499310/fd0ce06a-642e-4ab8-b00d-2cd2ac1860af) -->
+![7bb6fbcea8eec5c09fffb2f2ee15d8ec (1)](https://github.com/RausNichts/.github/assets/132499310/62f73b3f-1f7b-4e21-a88d-675cdd5528ac)
 
